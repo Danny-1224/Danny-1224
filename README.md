@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danny!</h1>
-<h3 align="center">I'm a web developer with a passion for creating innovative digital solutions. Currently, I build websites and am expanding my skills through software development courses. I'm excited to soon offer my services as a software developer. With a strong foundation in web development, I'm eager to take on new challenges. I'm proficient in HTML, CSS, JavaScript, and PHP, and I'm always learning</h3>
+<p align="center">I'm a web developer with a passion for creating innovative digital solutions. Currently, I build websites and am expanding my skills through software development courses.</p>
 
 - 🔭 I’m currently working on an Online Education Website **GAP Tutorial CBT Web**
 
